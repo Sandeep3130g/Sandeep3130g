@@ -9,20 +9,20 @@ I'm a **Computer Science & IT student** at Siksha 'O' Anusandhan University, pas
 
 ## 🚀 Featured Projects
 
-### [DShare: Secure Content Management System](https://github.com/sandeep3130g/dshare)
+### [DShare: Secure Content Management System](https://github.com/Sandeep3130g/Dshare)
 A SaaS-style web app for secure file sharing, built with **HTML**, **CSS**, **PHP**, and **MySQL**. Features RESTful APIs, OAuth authentication, and encryption, reducing data breach risks by 50% and boosting upload speeds by 40%.
 
-<button class="btn" onclick="window.location.href='https://github.com/sandeep3130g/dshare'">Explore DShare</button>
+<button class="btn" onclick="window.location.href='https://github.com/Sandeep3130g/Dshare'">Explore DShare</button>
 
-### [RideShare: Peer-to-Peer Ride-Sharing Web App](https://github.com/sandeep3130g/rideshare)
+### [RideShare: Peer-to-Peer Ride-Sharing Web App](https://github.com/Sandeep3130g/RideShare)
 A dynamic ride-sharing platform powered by **Google Maps Geospatial API** and **WebSockets** in a microservices architecture. Improves ride-matching accuracy by 45% and real-time reliability by 70%, with a carbon tracking module cutting environmental impact by 20%.
 
-<button class="btn" onclick="window.location.href='https://github.com/sandeep3130g/rideshare'">Check Out RideShare</button>
+<button class="btn" onclick="window.location.href='https://github.com/Sandeep3130g/RideShare'">Check Out RideShare</button>
 
-### [Conventional Image Recognition Chatbot](https://github.com/sandeep3130g/chatbot)
+### [Conventional Image Recognition Chatbot](https://github.com/Sandeep3130g/Conventional-Image-Recognition-Chatbot)
 A multimodal conversational AI platform using **React.js**, **Tailwind CSS**, and **Google Gemini API**. Accelerates image recognition and query responses by 40% and enhances user engagement by 35% with an intuitive UI and JSON-based chat history persistence.
 
-<button class="btn" onclick="window.location.href='https://github.com/sandeep3130g/chatbot'">Try the Chatbot</button>
+<button class="btn" onclick="window.location.href='https://github.com/Sandeep3130g/Conventional-Image-Recognition-Chatbot'">Try the Chatbot</button>
 
 ---
 
@@ -43,25 +43,4 @@ A multimodal conversational AI platform using **React.js**, **Tailwind CSS**, an
 ## 📬 Let's Connect!
 Have an idea or want to collaborate? Reach out via [LinkedIn](https://linkedin.com/in/sandeep-samal) or [email](mailto:sandeepsamal784@gmail.com). Check out my [GitHub repositories](https://github.com/sandeep3130g) for more projects!
 
-<style>
-.btn {
-  background-color: #1f6feb;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 16px;
-  margin-top: 10px;
-  transition: background-color 0.3s;
-}
-.btn:hover {
-  background-color: #005bb5;
-}
-@media (max-width: 600px) {
-  .btn {
-    width: 100%;
-    font-size: 14px;
-  }
-}
-</style>
+---
