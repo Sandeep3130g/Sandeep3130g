@@ -1,9 +1,16 @@
 # 👋 Hi, I'm Sandeep Kumar Samal!
 
-I'm a **Computer Science & IT student** at Siksha 'O' Anusandhan University, passionate about building innovative solutions in **full-stack development**, **conversational AI**, and **geospatial applications**. With a knack for tackling challenges in hackathons and crafting production-ready apps, I thrive on transforming ideas into reality. Explore my projects below, and feel free to connect!
+💻 I'm a **Computer Science & Information Technology student** at Siksha 'O' Anusandhan University, passionate about building innovative solutions in **full-stack development**, **conversational AI**, and **geospatial applications**. With a knack for tackling challenges in hackathons and crafting production-ready apps, I thrive on transforming ideas into reality. Explore my projects below, and feel free to connect! 🚀
+
+<div style="white-space: nowrap;">
+  <img src="https://img.shields.io/badge/Status-Student-28a745?style=flat" style="height: 30px; margin: 4px;" alt="Student">
+  <img src="https://img.shields.io/badge/Hackathons-4%2B-0078D4?style=flat" style="height: 30px; margin: 4px;" alt="Hackathons">
+  <img src="https://img.shields.io/badge/Apps-5%2B_Production-0078D4?style=flat" style="height: 30px; margin: 4px;" alt="Apps">
+</div>
 
 🌟 **Currently Exploring**: Multimodal AI, Microservices, and Real-Time Analytics  
 📫 **Reach Me**: [sandeepsamal784@gmail.com](mailto:sandeepsamal784@gmail.com) | [LinkedIn](https://linkedin.com/in/sandeep-samal) | [GitHub](https://github.com/sandeep3130g)
+
 
 ---
 
@@ -25,22 +32,17 @@ A multimodal conversational AI platform using **React.js**, **Tailwind CSS**, an
 
 ## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" style="height: 30px; margin: 4px;" alt="Java">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" style="height: 30px; margin: 4px;" alt="C++">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="height: 30px; margin: 4px;" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="height: 30px; margin: 4px;" alt="JavaScript">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" style="height: 30px; margin: 4px;" alt="PHP">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" style="height: 30px; margin: 4px;" alt="SQL">
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" style="height: 30px; margin: 4px;" alt="React.js">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" style="height: 30px; margin: 4px;" alt="Node.js">
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" style="height: 30px; margin: 4px;" alt="Express.js">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" style="height: 30px; margin: 4px;" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" style="height: 30px; margin: 4px;" alt="MySQL">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" style="height: 30px; margin: 4px;" alt="Git">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" style="height: 30px; margin: 4px;" alt="Postman">
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=websocket&logoColor=white" style="height: 30px; margin: 4px;" alt="WebSockets">
-<img src="https://img.shields.io/badge/RESTful_APIs-0A8043?style=flat&logo=rest&logoColor=white" style="height: 30px; margin: 4px;" alt="RESTful APIs">
-<img src="https://img.shields.io/badge/OAuth-00A1D6?style=flat&logo=auth0&logoColor=white" style="height: 30px; margin: 4px;" alt="OAuth">
+- **Languages**:  
+  <div style="white-space: nowrap;"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" style="height: 30px; margin: 4px;" alt="Java"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" style="height: 30px; margin: 4px;" alt="C++"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="height: 30px; margin: 4px;" alt="Python"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="height: 30px; margin: 4px;" alt="JavaScript"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" style="height: 30px; margin: 4px;" alt="PHP"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" style="height: 30px; margin: 4px;" alt="SQL"></div>
+
+- **Frameworks**:  
+  <div style="white-space: nowrap;"><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" style="height: 30px; margin: 4px;" alt="React.js"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" style="height: 30px; margin: 4px;" alt="Node.js"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" style="height: 30px; margin: 4px;" alt="Express.js"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" style="height: 30px; margin: 4px;" alt="Tailwind CSS"></div>
+
+- **Tools**:  
+  <div style="white-space: nowrap;"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" style="height: 30px; margin: 4px;" alt="Git"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" style="height: 30px; margin: 4px;" alt="MySQL"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" style="height: 30px; margin: 4px;" alt="Postman"><img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=websocket&logoColor=white" style="height: 30px; margin: 4px;" alt="WebSockets"><img src="https://img.shields.io/badge/RESTful_APIs-0A8043?style=flat" style="height: 30px; margin: 4px;" alt="RESTful APIs"><img src="https://img.shields.io/badge/OAuth-00A1D6?style=flat&logo=auth0&logoColor=white" style="height: 30px; margin: 4px;" alt="OAuth"></div>
+
+- **Domains**:  
+  <div style="white-space: nowrap;"><img src="https://img.shields.io/badge/SaaS-0078D4?style=flat" style="height: 30px; margin: 4px;" alt="SaaS"><img src="https://img.shields.io/badge/Real_Time_Analytics-0078D4?style=flat" style="height: 30px; margin: 4px;" alt="Real-Time Analytics"><img src="https://img.shields.io/badge/Conversational_AI-0078D4?style=flat" style="height: 30px; margin: 4px;" alt="Conversational AI"><img src="https://img.shields.io/badge/Geospatial_Apps-0078D4?style=flat" style="height: 30px; margin: 4px;" alt="Geospatial Apps"></div>
 
 ---
 
