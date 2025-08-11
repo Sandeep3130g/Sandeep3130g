@@ -16,6 +16,17 @@
 
 ## 🚀 Featured Projects
 
+
+### [Credit Card Fraud Detection](https://github.com/Sandeep3130g/Credit_Card_Fraud_Detection)
+A machine learning project that detects fraudulent credit card transactions using techniques like data preprocessing, resampling to handle class imbalance, and models such as *Logistic Regression*. Achieved high precision of *99.87%* and recall to reduce false positives and negatives..
+
+### [Customer Churn Prediction](https://github.com/Sandeep3130g/Customer_Churn_Prediction)
+Predicts customer churn by analyzing customer demographics and behavior using ML models including *Logistic Regression* and Random Forest. Helps businesses identify at-risk customers and improve retention strategies with high accuracy and ROC-AUC scores.
+
+
+### [Conventional Image Recognition Chatbot](https://github.com/Sandeep3130g/Conventional-Image-Recognition-Chatbot)
+A multimodal conversational AI platform using **React.js**, **Tailwind CSS**, and **Google Gemini API**. Accelerates image recognition and query responses by 40% and enhances user engagement by 35% with an intuitive UI and JSON-based chat history persistence.
+
 ### [DShare: Secure Content Management System](https://github.com/Sandeep3130g/Dshare)
 A SaaS-style web app for secure file sharing, built with **HTML**, **CSS**, **PHP**, and **MySQL**. Features RESTful APIs, OAuth authentication, and encryption, reducing data breach risks by 50% and boosting upload speeds by 40%.
 
@@ -23,9 +34,6 @@ A SaaS-style web app for secure file sharing, built with **HTML**, **CSS**, **PH
 ### [RideShare: Peer-to-Peer Ride-Sharing Web App](https://github.com/Sandeep3130g/RideShare)
 A dynamic ride-sharing platform powered by **Google Maps Geospatial API** and **WebSockets** in a microservices architecture. Improves ride-matching accuracy by 45% and real-time reliability by 70%, with a carbon tracking module cutting environmental impact by 20%.
 
-
-### [Conventional Image Recognition Chatbot](https://github.com/Sandeep3130g/Conventional-Image-Recognition-Chatbot)
-A multimodal conversational AI platform using **React.js**, **Tailwind CSS**, and **Google Gemini API**. Accelerates image recognition and query responses by 40% and enhances user engagement by 35% with an intuitive UI and JSON-based chat history persistence.
 
 
 ---
